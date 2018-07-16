@@ -10,8 +10,7 @@
  **/
 
 
-function justOneString(arg1, arg2){
-}
+
 
 
 

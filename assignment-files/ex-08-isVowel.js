@@ -7,8 +7,6 @@
  **/
 
 
- function isVowel(char){
- }
 
 
 
@@ -27,8 +25,6 @@ console.assert(isVowel('e') === true);
 console.assert(isVowel('i') === true);
 console.assert(isVowel('o') === true);
 console.assert(isVowel('u') === true);
-console.assert(isVowel('y') === true);
- //(of course, 'y' is a vowel!!)
 
 /*-------------------TEST-2-------------------------*/
 // function receives string input

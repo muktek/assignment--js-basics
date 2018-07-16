@@ -34,8 +34,12 @@
  *
  **/
 
-function calcSpeedTicket(speedLimit, userSpeed, protectedArea){
-}
+
+
+
+
+
+
 
 
 //*-*~*~*~*~*~ Don't Touch *~*~*~*~*~*~*~*

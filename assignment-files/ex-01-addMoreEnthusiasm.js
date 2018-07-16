@@ -18,6 +18,8 @@ function addMoreEnthusiasm(inputTxt){
 //*-*~*~*~*~*~ Don't Touch *~*~*~*~*~*~*~*~*~*~*~
 
 /*-------------------TEST-1-------------------------*/
+console.
+
 console.log(`==== ex-01-addMoreEnthusiam : TEST 1 ====`);
 
 var output1 = addMoreEnthusiasm("I want pizza")
