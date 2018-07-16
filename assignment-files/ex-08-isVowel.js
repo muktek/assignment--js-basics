@@ -26,6 +26,7 @@ console.assert(isVowel('i') === true);
 console.assert(isVowel('o') === true);
 console.assert(isVowel('u') === true);
 
+
 /*-------------------TEST-2-------------------------*/
 // function receives string input
 //    and returns boolean false if it is NOT a vowel
